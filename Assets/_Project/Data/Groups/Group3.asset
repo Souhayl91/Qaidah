@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a589f099341b2448f908ba74b4c6e3, type: 3}
+  m_Name: Group3
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleQaidah.Data.LetterGroupData
+  groupName: 'Group 3: Za to Daad'
+  groupIndex: 2
+  letters:
+  - {fileID: 11400000, guid: 2e926a604f67ee341bdde3fd0ae57595, type: 2}
+  - {fileID: 11400000, guid: 8a76eda09a5524d4d890f78f466036a7, type: 2}
+  - {fileID: 11400000, guid: 20bc193617872a84a96bcda2f84c6d27, type: 2}
+  - {fileID: 11400000, guid: c004fbf4586d1584489761f86dae9793, type: 2}
+  - {fileID: 11400000, guid: 8482f801d81540b4297cd21986a46685, type: 2}
+  questionsPerQuiz: 10

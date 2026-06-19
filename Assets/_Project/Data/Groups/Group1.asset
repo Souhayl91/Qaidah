@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a589f099341b2448f908ba74b4c6e3, type: 3}
+  m_Name: Group1
+  m_EditorClassIdentifier: Assembly-CSharp::SimpleQaidah.Data.LetterGroupData
+  groupName: 'Group 1: Alif to Jeem'
+  groupIndex: 0
+  letters:
+  - {fileID: 11400000, guid: 3d3650e46bd255a40b2c226878e85f77, type: 2}
+  - {fileID: 11400000, guid: c3c653f543df4eb4494e43cc78fec6b6, type: 2}
+  - {fileID: 11400000, guid: 48600edd6c79818428fc81ddcc9c2dac, type: 2}
+  - {fileID: 11400000, guid: e98e20b168bba534795edca622655cea, type: 2}
+  - {fileID: 11400000, guid: cecae0ca7315dcb45980db8f292e7a0c, type: 2}
+  questionsPerQuiz: 10
